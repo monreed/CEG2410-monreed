@@ -1,0 +1,24 @@
+FirstName,LastName,SamAccountName,OU1,OU2
+Sam,Adams,sadams,darkroast Users,Engineers
+Bob,Baker,bbaker,darkroast Users,Engineers
+John,Clark,jclark,darkroast Users,Engineers
+Jim,Davis,jdavis,darkroast Users,Developers
+Sue,Evans,sevans,darkroast Users,Developers
+Mabel,Frank,mfrank,darkroast Users,Developers
+Kylie,Ghosh,kghosh,darkroast Users,Developers
+Sammy,Hills,shills,darkroast Users,HR
+Steve,Irwin,sirwin,darkroast Users,HR
+Jessy,Jones,jjones,darkroast Users,Finance
+Kevin,Klein,kklein,darkroast Users,Finance
+Max,Lopez,mlopez,darkroast Users,Finance
+Sarah,Mason,smason,darkroast Users,Developers
+Frank,Nalty,fnalty,darkroast Users,Developers
+Izzie,Ochoa,iochoa,darkroast Users,Developers
+Kelly,Patel,kpatel,darkroast Users,Engineers
+Liz,Quinn,lquinn,darkroast Users,Engineers
+Owen,Reily,oreily,darkroast Users,Engineers
+Taylor,Trott,ttrott,darkroast Users,Engineers
+James,Usman,jusman,darkroast Users,Engineers
+Elsie,Smith,esmith,darkroast Users,Engineers
+Waldo,Valdo,wvaldo,darkroast Users,Developers
+Griffin,White,gwhite,darkroast Users,Developers

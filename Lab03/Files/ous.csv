@@ -1,0 +1,11 @@
+Name,Path
+darkroast Users,"dc=ad,dc=darkroast,dc=com"
+Finance,"OU=darkroast Users,dc=ad,dc=darkroast,dc=com"
+HR,"OU=darkroast Users,dc=ad,dc=darkroast,dc=com"
+Engineers,"OU=darkroast Users,dc=ad,dc=darkroast,dc=com"
+Developers,"OU=darkroast Users,dc=ad,dc=darkroast,dc=com"
+darkroast Computers,"dc=ad,dc=darkroast,dc=com"
+Conference,"OU=darkroast Computers,dc=ad,dc=darkroast,dc=com"
+Secure,"OU=darkroast Computers,dc=ad,dc=darkroast,dc=com"
+Workstations,"OU=darkroast Computers,dc=ad,dc=darkroast,dc=com"
+darkroast Servers,"dc=ad,dc=darkroast,dc=com"
