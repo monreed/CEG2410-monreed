@@ -1,5 +1,5 @@
 # Lab 03 - Active Directory ✧
-Monica Reed monrd11@gmail.com
+Monica Reed reed.334@wright.edu
 
 ### Contents ❀ུ۪
 #### [Part 1](https://github.com/WSU-kduncan/ceg2410-projects-monreed/blob/main/Lab03/README.md#setup-ad-domain-controller-) - Setup AD DC
