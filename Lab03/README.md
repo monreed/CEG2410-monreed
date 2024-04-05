@@ -1,7 +1,7 @@
-# Lab 03 - Active Directory ✧
+# Lab 03 - Active Directory 
 Monica Reed reed.334@wright.edu
 
-### Contents ❀ུ۪
+### Contents 
 #### [Part 1](https://github.com/WSU-kduncan/ceg2410-projects-monreed/blob/main/Lab03/README.md#setup-ad-domain-controller-) - Setup AD DC
 - [i.](https://github.com/WSU-kduncan/ceg2410-projects-monreed/edit/main/Lab03/README.md#configuring-a-windows-server-to-be-a-domain-controller-) - Configure DC
 #### [Part 2](https://github.com/WSU-kduncan/ceg2410-projects-monreed/blob/main/Lab03/README.md#ad-structure-) - AD Structure
@@ -13,7 +13,7 @@ Monica Reed reed.334@wright.edu
 - [i.](https://github.com/WSU-kduncan/ceg2410-projects-monreed/edit/main/Lab03/README.md#applying-group-policies-extra-credit-) - Apply GPO
 - [ii.](https://github.com/WSU-kduncan/ceg2410-projects-monreed/edit/main/Lab03/README.md#managing-ous) - Manage OUs
 
-# Setup AD Domain Controller ✼
+# Setup AD Domain Controller 
 ### Configuring a Windows Server to be a Domain Controller /
 - Install necessary tools via PowerShell
 
@@ -53,7 +53,7 @@ Monica Reed reed.334@wright.edu
 ### Domain DNS IP /
 - 127.0.0.1
 
-# AD Structure ✼
+# AD Structure 
 ### Create Organizational Units `Extra credit ✓`
 - Create [bulk-ous.ps1](https://github.com/WSU-kduncan/ceg2410-projects-monreed/blob/main/Lab03/Files/bulk-ous.ps1)
 
@@ -105,7 +105,7 @@ Monica Reed reed.334@wright.edu
   - `hr_finance_admins` | darkroast Admins
   - `remote_workstation` | darkroast Groups
 
-# OUs and GPOs ✼
+# OUs and GPOs 
 ### Applying Group Policies `Extra credit ✓`
 - Lock out Workstations after 15 minutes of inactivity | [Guide](https://serverfault.com/questions/79418/enforcing-lock-screen-after-idle-time-via-gpo)
 
